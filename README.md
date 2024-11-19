@@ -5,4 +5,4 @@ I'm going to use this repository to learn the basics of using Git and GitHub. Pr
 
 I will probably add some files, perhaps a folder or two, poke around a bit with pull requests (which has always seemed a little intimidating to me), and merging.
 
-That is all. (For now.)
+That is all. (At least, for now.)
